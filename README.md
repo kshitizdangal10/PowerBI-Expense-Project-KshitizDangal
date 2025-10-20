@@ -1,6 +1,8 @@
 # 💰 2024 Expense Analysis Dashboard (Power BI)
 
 **By Kshitiz Dangal | Data Analyst**
+![Dashboard Preview](https://github.com/kshitizdangal10/PowerBI-Expense-Project-KshitizDangal/blob/main/Dashboard_screenshot.png)
+
 
 ---
 
